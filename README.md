@@ -1,4 +1,5 @@
 # Data Analysis for Seoul BikeSharing Sercive
+### Abstract
 Today, rental bikes are offered in a wide range of urban cities to enhance comfortableness and 
 environmental sustainability. Availability and accessibility of rental bikes to the public are two 
 important aspects of a successful bike-sharing scheme. In order to have a stable supply of rental bikes 
