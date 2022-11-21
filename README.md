@@ -1,4 +1,7 @@
 # Data Analysis for Seoul BikeSharing Sercive
+
+- Find the full report in the [pdf file](BikeSharing_Seoul.pdf).
+
 ### Abstract
 Today, rental bikes are offered in a wide range of urban cities to enhance comfortableness and 
 environmental sustainability. Availability and accessibility of rental bikes to the public are two 
