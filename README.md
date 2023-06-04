@@ -1,4 +1,4 @@
-# Data Analysis for Seoul BikeSharing Sercive
+# Data Analysis for Seoul Bike Sharing Service
 
 - Find the full report in the [pdf file](BikeSharing_Seoul.pdf).
 
